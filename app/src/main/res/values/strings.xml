@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">Winko</string>
+
+    <string name="main_fragment_label">Main Fragment</string>
+    <string name="new_fragment_label">New Fragment</string>
+    <string name="history_fragment_label">History Fragment</string>
+
+    <!-- main fragment -->
+    <string name="btn_new_text">Dodaj</string>
+    <string name="btn_history_text">Historia</string>
+
+    <!--  new fragment form  -->
+    <string name="name_placeholder">Nazwa</string>
+    <string name="send_placeholder">Dodaj</string>
+
+</resources>
